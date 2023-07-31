@@ -15,7 +15,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: #7d5050;
+  --r-background-color: #80677a;
   --r-main-font: Source Sans Pro, Helvetica, sans-serif;
   --r-main-font-size: 42px;
   --r-main-color: #fff;
@@ -29,7 +29,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --r-heading-text-shadow: none;
   --r-heading-font-weight: 600;
   --r-heading1-text-shadow: none;
-  --r-heading1-size: 5em;
+  --r-heading1-size: 2.5em;
   --r-heading2-size: 1.6em;
   --r-heading3-size: 1.3em;
   --r-heading4-size: 1em;
@@ -42,7 +42,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 }
 
 .reveal-viewport {
-  background: #000000;
+  background: #80677a;
   background-color: var(--r-background-color);
 }
 
@@ -212,7 +212,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   width: 90%;
   margin: var(--r-block-margin) auto;
   text-align: left;
-  font-size: 0.7em;
+  font-size: 0.55em;
   font-family: var(--r-code-font);
   line-height: 1.2em;
   word-wrap: break-word;
